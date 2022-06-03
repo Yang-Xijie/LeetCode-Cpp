@@ -1,7 +1,5 @@
 # LeetCode Exercises
 
-## 刷题
-
 <https://leetcode.cn/problemset/all>
 
 - 修改 `Makefile` 中的 `QUESTION` 来确定编译运行/调试的题目
