@@ -81,9 +81,10 @@ int main() {
   printf("[TRACE] START\n");
 
   // [set input]
-  std::vector<std::string> emails =
-      {"tes..t.email+alex@leetcode.com", "test.e.mail+bob.cathy@leetcode.com", "testemail+david@lee.tcode.com"};
-      // {"a@leetcode.com", "b@leetcode.com", "c@leetcode.com"};
+  std::vector<std::string> emails = {"tes..t.email+alex@leetcode.com",
+                                     "test.e.mail+bob.cathy@leetcode.com",
+                                     "testemail+david@lee.tcode.com"};
+  // {"a@leetcode.com", "b@leetcode.com", "c@leetcode.com"};
 
   // [call solution]
   int result = Solution().numUniqueEmails(emails);
