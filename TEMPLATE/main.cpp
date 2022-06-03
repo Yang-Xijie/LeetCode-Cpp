@@ -1,19 +1,14 @@
-// [info]
-
-// url:
-// description:
-
-// [include]
+// [INCLUDE]
 
 #include <cstdio>
 #include <cstdlib>
 #include <vector>
 
-// [solution]
+// [SOLUTION]
 
 class Solution {};
 
-// [main]
+// [MAIN]
 
 int main() {
   printf("[TRACE] START\n");
