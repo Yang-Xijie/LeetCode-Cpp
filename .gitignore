@@ -1,8 +1,5 @@
 # Make
 build/
 
-# VS Code
-.vscode/settings.json
-
 # Others
 playground/
